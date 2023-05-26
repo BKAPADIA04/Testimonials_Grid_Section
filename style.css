@@ -183,5 +183,8 @@ img {
     {
         flex-basis:75%;
     }
-    
+     .attribution
+    {
+        text-align: center;
+    }
 }
